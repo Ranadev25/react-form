@@ -2,7 +2,7 @@ import { useFormik } from 'formik'
 import React from 'react'
 import * as yup  from 'yup';
 
-import './SingUp.css'
+import './Singup.css'
 
 const Singup = () => {
 
